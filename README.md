@@ -1,4 +1,4 @@
-# SAL_BW_Project_1 - Data Preparation, SQL Insights, and (EDA) Data Visualization 📊
+# (Group 3) SAL_BW_Project_3 - Data Preparation, SQL Insights, and (EDA) Data Visualization 📊
 
 ## Project Overview 🔍
 
@@ -85,7 +85,7 @@ This insight could help target top customers with **personalized offers** or **l
 
 ## Project Submission 📥:
 
-- GitHub Repository: [SAL_BW_Project_1](https://github.com/Meena123M/Build_Week_Project)
+- GitHub Repository: [SAL_BW_Project_3](https://github.com/Meena123M/Build_Week_Project)
 
 ## Contributors 👥:
 
