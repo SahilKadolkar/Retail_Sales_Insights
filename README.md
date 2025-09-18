@@ -1,4 +1,4 @@
-# (Group 3) SAL_BW_Project_3 - Data Preparation, SQL Insights, and (EDA) Data Visualization 📊
+# Retail Sales Insights: Data Preparation, SQL Insights, and (EDA) Data Visualization 📊
 
 ## Project Overview 🔍
 
